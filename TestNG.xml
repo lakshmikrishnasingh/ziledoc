@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="ZileDocV1">
+
+	<listeners>
+		<listener class-name="com.ziledoc.utilities.Reporter" />
+	</listeners>
+
+
+	<test name="ZileDoc Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.ziledoc.testCases.TC_LoginTest_001" />
+
+		</classes>
+
+	</test>
+
+</suite>

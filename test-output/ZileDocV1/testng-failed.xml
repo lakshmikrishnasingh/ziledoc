@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ZileDocV1]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.ziledoc.utilities.Reporter"/>
+  </listeners>
+  <test thread-count="5" name="ZileDoc Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.ziledoc.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.ziledoc.testCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- ZileDoc Test(failed) -->
+</suite> <!-- Failed suite [ZileDocV1] -->

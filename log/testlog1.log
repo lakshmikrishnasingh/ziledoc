@@ -1,0 +1,90 @@
+2021-05-23 23:23:53,604 [main] INFO com.ziledoc.pageObjects.BaseClass - Automation run in chrome browser
+2021-05-23 23:23:56,060 [main] INFO com.ziledoc.pageObjects.BaseClass - User clicks on URL
+2021-05-23 23:23:56,186 [main] INFO com.ziledoc.pageObjects.BaseClass - User navigated to sign in page
+2021-05-23 23:23:56,441 [main] INFO com.ziledoc.pageObjects.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-23 23:23:56,521 [main] INFO com.ziledoc.pageObjects.BaseClass - User entered password: Sriman
+2021-05-23 23:23:56,615 [main] INFO com.ziledoc.pageObjects.BaseClass - User signed in to ZileDoc
+2021-05-23 23:23:56,622 [main] INFO com.ziledoc.pageObjects.BaseClass - Login test passed
+2021-05-23 23:25:31,538 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-23 23:25:33,800 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-23 23:25:34,101 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-23 23:25:34,342 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-23 23:25:34,414 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-23 23:25:34,485 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-23 23:25:34,492 [main] INFO com.ziledoc.testCases.BaseClass - Login test passed
+2021-05-23 23:25:44,634 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-23 23:25:46,831 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-23 23:25:47,174 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-23 23:25:47,419 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-23 23:25:47,491 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-23 23:25:47,564 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-23 23:25:47,570 [main] INFO com.ziledoc.testCases.BaseClass - Login test passed
+2021-05-24 07:16:00,926 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:16:05,119 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:16:05,471 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:16:06,028 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:16:06,090 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:16:06,166 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:16:06,173 [main] INFO com.ziledoc.testCases.BaseClass - Login test passed
+2021-05-24 07:22:37,626 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:22:39,431 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:22:39,714 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:22:39,942 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:22:40,013 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:22:40,090 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:22:40,100 [main] INFO com.ziledoc.testCases.BaseClass - Login test passed
+2021-05-24 07:25:14,649 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:25:16,423 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:25:16,854 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:25:17,066 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:25:17,132 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:25:17,210 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:28:57,495 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:28:59,308 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:28:59,618 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:28:59,871 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:28:59,953 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:29:00,053 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:32:25,732 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:32:27,521 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:32:27,820 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:32:28,044 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:32:28,122 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:32:28,206 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:36:59,021 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:37:00,843 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:37:01,161 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:37:01,382 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:37:01,458 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:37:01,545 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:55:47,520 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:55:49,703 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:55:49,977 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:55:50,211 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:55:50,281 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:55:50,368 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 07:57:08,273 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 07:57:10,055 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 07:57:10,349 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 07:57:10,587 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 07:57:10,692 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 07:57:10,782 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 08:00:40,432 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 08:00:49,764 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 08:00:50,064 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 08:00:50,275 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 08:00:50,343 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 08:00:50,436 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 08:03:12,984 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 08:03:14,775 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 08:03:15,090 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 08:03:15,314 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 08:03:15,386 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 08:03:15,464 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 08:06:03,652 [main] INFO com.ziledoc.testCases.BaseClass - Automation run in chrome browser
+2021-05-24 08:06:08,645 [main] INFO com.ziledoc.testCases.BaseClass - User clicks on URL
+2021-05-24 08:06:08,960 [main] INFO com.ziledoc.testCases.BaseClass - User navigated to sign in page
+2021-05-24 08:06:09,238 [main] INFO com.ziledoc.testCases.BaseClass - User entered userName: lakshmi.krishna77@gmail.com
+2021-05-24 08:06:09,315 [main] INFO com.ziledoc.testCases.BaseClass - User entered password: Sriman
+2021-05-24 08:06:09,395 [main] INFO com.ziledoc.testCases.BaseClass - User signed in to ZileDoc
+2021-05-24 08:06:09,402 [main] INFO com.ziledoc.testCases.BaseClass - Login test passed
